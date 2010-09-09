@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: webfaktura\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-06 13:33+0200\n"
+"PO-Revision-Date: 2010-09-05 18:25+0100\n"
+"Last-Translator: Patrick Lauber <patrick.lauber@divio.ch>\n"
+"Language-Team: de <p.lauber@tigermedia.ch>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: SWITZERLAND\n"
+
+#: edit.py:61
+#, python-format
+msgid "%s updated successfully."
+msgstr "%s erfolgreich aktualisiert."
+
+#: edit.py:63
+#, python-format
+msgid "%s created successfully."
+msgstr "%s erfolgreich erstellt."
+
+#: edit.py:65
+msgid "There were some errors or missing information in the form."
+msgstr "Fehler oder fehlende Informationen im Formular."
